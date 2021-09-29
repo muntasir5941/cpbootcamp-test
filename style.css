@@ -1,0 +1,27 @@
+body{
+    background-color: beige;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    margin: 0;
+}
+.card-container{
+    height: 400px;
+    width: 750px;
+    background-color: pink;
+    display: flex;
+    
+}
+.sedan{
+    background-color: orange;
+    flex: 1;
+}
+.suv{
+    background-color: lightseagreen;
+    flex: 1;
+}
+.luxury{
+    background-color: darkgreen;
+    flex: 1;
+}
